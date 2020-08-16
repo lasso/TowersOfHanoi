@@ -1,0 +1,10 @@
+﻿[Conn]
+Coordinates=99,1,45,36
+
+[]
+Coordinates=99,56,91,36
+
+[HiScoreGrid]
+Coordinates=10,10,80,58
+Visible=True
+

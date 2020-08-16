@@ -1,0 +1,7 @@
+Tower_B RCDATA "images\\200x200\\B.png"
+Tower_E RCDATA "images\\200x200\\E.png"
+Tower_G RCDATA "images\\200x200\\G.png"
+Tower_GB RCDATA "images\\200x200\\GB.png"
+Tower_R RCDATA "images\\200x200\\R.png"
+Tower_RG RCDATA "images\\200x200\\RG.png"
+Tower_RGB RCDATA "images\\200x200\\RGB.png"

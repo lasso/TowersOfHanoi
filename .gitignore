@@ -1,0 +1,9 @@
+__history/
+win32/
+
+*.identcache
+images/**/*.xcf
+hiscores.db
+*.dproj.local
+*.dres
+*.res
